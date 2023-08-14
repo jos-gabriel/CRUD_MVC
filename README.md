@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # CRUD MVC ASP.NET Core 6 SQL Server
 
 ## 1. Crear base de datos
@@ -19,6 +21,14 @@
 - **Views-Shared** Se agrega el controlador Usuarios que apunta a Usuarios-Index
 - **Style bootstrap** para los botones de acción por ejemplo:  `class="btn btn-warning"`
 
+
 ## Imágenes del proyecto
-![13581394862e3122f69d070a139fe542.png](:/bdcbf1d0a84f4d46a95b5bd04f383a99)
-![41780c6800caf651d4d9247cb1cf2bd4.png](:/16f505cfc5084c168a649cf6206b95f7)
+![Index](https://github.com/jos-gabriel/CRUD_MVC/assets/65365848/8b84f8eb-1842-4884-bcc7-4895973b763e)
+![Crear_usuario](https://github.com/jos-gabriel/CRUD_MVC/assets/65365848/6aeae5a4-bae7-42a7-bcf0-67d2e2e68688)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/jos-hdz/
